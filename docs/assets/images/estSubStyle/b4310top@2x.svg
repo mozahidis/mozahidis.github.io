@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b4310top@2x</title>
+    <g id="b4310top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group" transform="translate(143.16, 84.0481) scale(1, -1) translate(-143.16, -84.0481)translate(80, 45)" stroke="#0F4CAD">
+            <g id="Group-29" fill="#FFFFFF">
+                <g id="Group-28">
+                    <rect id="Rectangle-Copy-16" x="40.5" y="0.5" width="60" height="52"></rect>
+                    <rect id="Rectangle" x="40.5" y="52.5" width="60" height="20"></rect>
+                    <rect id="Rectangle" transform="translate(110.5, 26.5) rotate(-90) translate(-110.5, -26.5)" x="84.5" y="16.5" width="52" height="20"></rect>
+                    <rect id="Rectangle-Copy-18" transform="translate(30.5, 26.5) rotate(-90) translate(-30.5, -26.5)" x="4.5" y="16.5" width="52" height="20"></rect>
+                    <rect id="Rectangle-Copy-19" transform="translate(10.5, 26.5) rotate(-90) translate(-10.5, -26.5)" x="-15.5" y="16.5" width="52" height="20"></rect>
+                </g>
+                <rect id="Rectangle" x="100.5" y="52.5" width="20" height="20"></rect>
+                <rect id="Rectangle-Copy-17" x="20.5" y="52.5" width="20" height="20"></rect>
+            </g>
+            <polygon id="Path-19" fill="#00FFFF" transform="translate(123.4556, 26.5326) scale(-1, 1) translate(-123.4556, -26.5326)" points="120.591057 0.520917624 120.591057 46.9646751 126.320074 52.544382 126.320074 0.520917624"></polygon>
+            <polygon id="Path-21" fill="#00FFFF" stroke-linejoin="bevel" points="40.6086025 72.5404804 100.467644 72.5404804 94.4422978 78.0961225 45.5380193 78.0961225"></polygon>
+        </g>
+        <g id="Arrow" transform="translate(127, 84)">
+            <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <g id="Group">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+            <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

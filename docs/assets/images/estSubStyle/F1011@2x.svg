@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="199px" viewBox="0 0 301 199" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>F1011@2x</title>
+    <g id="F1011" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="199"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-6" transform="translate(50, 38.5)" stroke="#0F4CAD">
+            <rect id="Rectangle" fill="#FFFFFF" x="0.5" y="12" width="200" height="100"></rect>
+            <line x1="100.5" y1="12" x2="100.5" y2="112" id="Line-10" stroke-linecap="square"></line>
+            <line x1="0.5" y1="12" x2="0.5" y2="112" id="Line-10-Copy" stroke-linecap="square"></line>
+            <polygon id="Path-3" fill="#FFFFFF" points="0.5 112 4.60947929 124.076321 97.4053952 124.076321 100.5 112"></polygon>
+            <polygon id="Path-3" fill="#FFFFFF" transform="translate(50.5, 6.0382) rotate(180) translate(-50.5, -6.0382)" points="0.5 0 4.60947929 12.0763211 97.4053952 12.0763211 100.5 0"></polygon>
+        </g>
+    </g>
+</svg>

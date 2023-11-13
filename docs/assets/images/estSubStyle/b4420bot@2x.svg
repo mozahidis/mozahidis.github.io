@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b4420bot@2x</title>
+    <g id="b4420bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-23" transform="translate(100, -2)" stroke="#0F4CAD">
+            <polygon id="Path-15" fill="#FFFFFF" points="0.555940761 0.396779751 0.555940761 71.5615944 20.3601812 71.5615944 20.3601812 91.9659082 80.4797632 91.9659082 80.4797632 71.5615944 100.598906 71.5615944 100.598906 0.396779751"></polygon>
+            <line x1="20.5" y1="70.5" x2="20.5" y2="0.5" id="Line-8" stroke-linecap="square"></line>
+            <line x1="80.5" y1="70.5" x2="80.5" y2="0.5" id="Line-8-Copy" stroke-linecap="square"></line>
+            <line x1="0.5" y1="51.5" x2="100.5" y2="51.5" id="Line-22" stroke-linecap="square"></line>
+            <line x1="0.5" y1="31.5" x2="20.5" y2="51.5" id="Line-23" stroke-linecap="square"></line>
+            <line x1="80.5" y1="31.5" x2="100.5" y2="51.5" id="Line-23-Copy" stroke-linecap="square" transform="translate(90.5, 41.5) scale(-1, 1) translate(-90.5, -41.5)"></line>
+            <line x1="19.5" y1="71.5" x2="83.5" y2="71.5" id="Line-24" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>

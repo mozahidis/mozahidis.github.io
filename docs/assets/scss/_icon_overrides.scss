@@ -1,0 +1,83 @@
+.pi-sort-up,
+.pi-sort-down,
+
+.pi-sort
+ {
+    font-family: "doticons" !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    font-variant: normal !important;
+    text-transform: none !important;
+    speak: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+//grid-sort-icon
+
+@charset 'UTF-8';
+
+.fa-sort::before,
+.pi-sort::before {
+    content: '\60 ' !important;
+}
+//sort-ascending-icon
+.fa-sort.fa-sort-asc::before,
+.pi-fw.pi-sort-up::before {
+    content: '\75 ' !important;
+    color: #fff;
+}
+//sort-descending-icon
+.fa-sort.fa-sort-desc::before,
+.pi-fw.pi-sort-down::before {
+    content: "\74 " !important;
+    color: #fff;
+}
+
+.ui-paginator a {
+    //back-arrow-icon
+    &.ui-paginator-prev.ui-paginator-element > span::before {
+        content: "\77 " !important;
+    }
+    // dot-next-arrow-icon
+    &.ui-paginator-next.ui-paginator-element > span::before {
+        content: "\78" !important;
+    }
+    //chevrons-right-icon
+    &.ui-paginator-last.ui-paginator-element > span::before {
+        content: "\7c" !important;
+    }
+    //chevrons-left-icon
+    &.ui-paginator-first.ui-paginator-element > span::before {
+        content: "\7b" !important;
+    }
+}
+
+.pi-search-plus, .pi-calendar, .pi-times
+{
+    font-family: 'Font Awesome 5 Pro'!important;
+    font-style: normal;
+    font-weight: 900;
+    font-display: auto;
+}
+
+.pi-search-plus:before
+{
+   content: "\f1e5" !important;
+}
+
+
+.pi-calendar:before
+{
+    content: "\f073" !important;
+}
+
+.pi-times:before
+{
+    content:"\f00d" !important;
+}
+
+body .pi {
+    font-size: 14px!important;
+}

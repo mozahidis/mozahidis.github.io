@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>a10lbot@2x</title>
+    <g id="a10lbot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" fill-rule="nonzero" x="0" y="0" width="301" height="120"></rect>
+        <g id="Group" transform="translate(54, -2)">
+            <polyline id="Path-14" fill="#FFFFFF" points="0.5 2 0.5 37.9535732 6 43.4535732 6 2"></polyline>
+            <path d="M6.5,0.5 L186.5,0.5 L186.5,74.5 L6.5,74.5 L6.5,0.5 Z" id="Rectangle" stroke="#0F4CAD" fill="#FFFFFF"></path>
+            <rect id="Rectangle" fill="#00FF00" x="7" y="45" width="59" height="29"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFF00" x="97" y="45" width="59" height="29"></rect>
+            <line x1="66.5" y1="1.5" x2="66.5" y2="73.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="0.5" y1="1.5" x2="0.5" y2="38.5" id="Line-6-Copy-3" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="0.5" y1="38.5" x2="6.5" y2="44.5" id="Line-2" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="6.5" y1="44.5" x2="185.5" y2="44.5" id="Line-3" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="96.5" y1="1.5" x2="96.5" y2="73.5" id="Line-6-Copy" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="156.5" y1="1.5" x2="156.5" y2="73.5" id="Line-6-Copy-2" stroke="#0F4CAD" stroke-linecap="square"></line>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="209px" viewBox="0 0 300 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lay003a@2x</title>
+    <g id="lay003a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="300" height="209"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="209"></rect>
+        <g id="Group-15" transform="translate(29.4409, 24.519)" fill="#FFFFFF" stroke="#0F4CAD">
+            <polygon id="Path-10" points="86.0768645 -1.92833979e-13 3.59069535e-15 9.09494702e-13 0 58.0027722 38.9894904 58.0027722 38.9894904 38.9933878 86.0768645 38.9933878"></polygon>
+            <polygon id="Path-10-Copy-2" points="86.0768645 77 3.59069535e-15 77 0 135.002772 38.9894904 135.002772 39 114.887836 86.0768645 114.887836"></polygon>
+            <polygon id="Path-10-Copy" points="211.076864 0 125 0 125 58.0027722 163.183342 58.0027722 163.183342 38.9933878 211.076864 38.9933878"></polygon>
+            <polygon id="Path-10-Copy-3" points="211.076864 77 125 77 125 135.002772 163.183342 135.002772 163.183342 115.059795 211.076864 115.059795"></polygon>
+            <polygon id="Path-10-Copy-5" transform="translate(206.0898, 48.0014) rotate(180) translate(-206.0898, -48.0014)" points="248.996179 19.0027722 163.183342 19 163.183342 77.0027722 201.092146 77.0027722 201.092146 57.0093844 248.996179 57.0093844"></polygon>
+            <polygon id="Path-10-Copy-7" transform="translate(206.0898, 125.0014) rotate(180) translate(-206.0898, -125.0014)" points="248.996179 96 163.183342 96 163.183342 154.002772 201.092146 154.002772 201.102656 134.942977 248.996179 134.942977"></polygon>
+            <polygon id="Path-10-Copy-6" transform="translate(82, 48.0014) rotate(180) translate(-82, -48.0014)" points="125 19 39 19 39 77.0027722 77.9105089 77.0027722 77.9105089 57.0093844 125 57.0093844"></polygon>
+            <polygon id="Path-10-Copy-8" transform="translate(82, 125.0014) rotate(180) translate(-82, -125.0014)" points="125 96 39 96 39 154.002772 49.6371347 154.002772 77.9105089 154.002772 77.9105089 135.114936 125 135.114936"></polygon>
+        </g>
+        <g id="Arrow" transform="translate(50, 40)">
+            <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <g id="Group">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+            <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

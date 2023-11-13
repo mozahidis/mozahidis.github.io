@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b6020top@2x</title>
+    <g id="b6020top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-17" transform="translate(70, 50)">
+            <g id="Group-16" transform="translate(90.5, 36) rotate(180) translate(-90.5, -36)" stroke="#0F4CAD">
+                <rect id="Rectangle" fill="#FFFFFF" x="0.5" y="0.5" width="180" height="71"></rect>
+                <line x1="20.5" y1="0.5" x2="20.5" y2="71.5" id="Line-12" stroke-linecap="square"></line>
+                <line x1="80.5" y1="0.5" x2="80.5" y2="71.5" id="Line-12-Copy" stroke-linecap="square"></line>
+                <line x1="100.5" y1="0.5" x2="100.5" y2="71.5" id="Line-12-Copy-2" stroke-linecap="square"></line>
+                <line x1="160.5" y1="0.5" x2="160.5" y2="71.5" id="Line-12-Copy-3" stroke-linecap="square"></line>
+                <line x1="0.5" y1="51.5" x2="179.5" y2="51.5" id="Line-13" stroke-linecap="square"></line>
+                <line x1="20.5" y1="51.5" x2="40.5" y2="71.5" id="Line-14" stroke-linecap="square"></line>
+                <line x1="140.5" y1="51.5" x2="160.5" y2="71.5" id="Line-14-Copy-2" stroke-linecap="square" transform="translate(150.5, 61.5) rotate(-90) translate(-150.5, -61.5)"></line>
+                <line x1="60.5" y1="51.5" x2="80.5" y2="71.5" id="Line-14-Copy-3" stroke-linecap="square" transform="translate(70.5, 61.5) rotate(-90) translate(-70.5, -61.5)"></line>
+            </g>
+            <g id="Arrow" transform="translate(29, 38)">
+                <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <g id="Group">
+                    <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+                </g>
+                <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                    <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

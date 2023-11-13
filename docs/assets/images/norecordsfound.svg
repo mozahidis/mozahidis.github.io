@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="185px" height="130px" viewBox="0 0 185 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>placeholder-big</title>
+    <g id="placeholder-big" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22">
+            <path d="M175.290542,98.7448679 C174.800642,99.4249056 174.291273,100.098647 173.776878,100.753498 C170.894008,104.425072 167.728503,107.704995 164.600054,110.488112 C163.105861,111.816704 161.622973,113.02566 160.184678,114.108683 C157.057486,116.463629 154.149492,118.214096 151.819329,119.222189 C129.711041,128.805054 88.2950584,134.377585 54.3035663,125.650435 C52.8219342,125.272636 51.3522355,124.863354 49.900751,124.422589 C41.6421751,121.948637 33.9099271,118.566708 27.114141,114.108683 C26.2222726,113.529392 25.3435938,112.925543 24.4831291,112.301546 C23.6666299,111.716588 22.8683448,111.11148 22.0895302,110.488112 C8.654977,99.809001 -0.0313189498,84.086277 0,61.8024482 C0,59.762335 0.0754540301,57.6781454 0.226820431,55.5309892 C2.85846035,18.0539843 28.6026819,0.504603347 53.914787,0.013464991 C54.6747594,-0.00542494577 55.4278229,-0.00542494577 56.1815146,0.0197616366 C60.0448122,0.0890247382 63.8754499,0.567569803 67.6068515,1.43021025 C86.4045486,5.787489 93.75367,17.3991331 105.705963,28.8583985 C126.231498,48.5354159 146.769595,15.535326 175.359002,48.3968897 C190.785186,66.1282437 185.377448,84.8607644 175.290542,98.7448679" id="Fill-1" fill="#E5EDFE"></path>
+            <g id="Group-19" transform="translate(35.000000, 93.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="140" height="28" rx="3"></rect>
+                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="2" y="2" width="134" height="24" rx="2"></rect>
+                <circle id="Oval" fill="#E6E6E6" cx="19" cy="13" r="7"></circle>
+                <g id="Group-3" transform="translate(34.000000, 8.000000)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="81" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" x="0" y="7" width="81" height="3" rx="1.5"></rect>
+                </g>
+            </g>
+            <g id="Group-20" transform="translate(35.000000, 61.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="140" height="28" rx="3"></rect>
+                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="2" y="2" width="134" height="24" rx="2"></rect>
+                <circle id="Oval" fill="#E6E6E6" cx="19" cy="14" r="7"></circle>
+                <g id="Group-7" transform="translate(34.000000, 9.000000)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="81" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" x="0" y="7" width="81" height="3" rx="1.5"></rect>
+                </g>
+            </g>
+            <g id="Group-21" transform="translate(35.000000, 28.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="140" height="28" rx="3"></rect>
+                <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="2" y="3" width="134" height="22" rx="2"></rect>
+                <circle id="Oval" fill="#E6E6E6" cx="19" cy="15" r="7"></circle>
+                <g id="Group-2" transform="translate(34.000000, 10.000000)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="81" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle" x="0" y="7" width="81" height="3" rx="1.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

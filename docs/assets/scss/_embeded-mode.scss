@@ -1,0 +1,37 @@
+.embeded-chromium {
+  .dot-wrapper {
+    .dot-leftpane {
+      display: none;
+    }
+
+    .topbar {
+      left: 0px;
+      width: 100%;
+
+      .dot-drawer,
+      .product-name {
+        display: none;
+      }
+
+      .dot-header__actions {
+        right: 0px;
+      }
+      .dot-header {
+        .logout-icon {
+          display: none;
+        }
+
+        .popupout-icon {
+          display: inline-block !important;
+        }
+      }
+    }
+
+    .mainarea {
+      padding-left: 0px !important;
+      .sticky {
+        width: calc(100vw - 47px);
+      }
+    }
+  }
+}

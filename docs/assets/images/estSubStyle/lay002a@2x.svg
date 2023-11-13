@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="209px" viewBox="0 0 300 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lay002a@2x</title>
+    <g id="lay002a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="300" height="209"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="209"></rect>
+        <g id="Group-13" transform="translate(22.6242, 8.6297)" fill="#FFFFFF" stroke="#0F4CAD">
+            <polygon id="Path-8" points="87 -3.53236224e-14 5.61537476e-13 -1.44719605e-16 5.61537476e-13 57.9600416 38.873567 57.9600416 38.873567 38.8531477 48.6664102 38.8531477 87 38.8531477"></polygon>
+            <polygon id="Path-8-Copy-3" points="86.9118644 95.95383 -5.79984782e-13 95.8702565 1.8189894e-12 152.90766 38.873567 152.90766 38.873567 133.757175 86.9118644 133.757175"></polygon>
+            <polygon id="Path-8-Copy-6" transform="translate(43.5, 67.3804) rotate(180) translate(-43.5, -67.3804)" points="87 38.8531477 0.0881356361 38.8531477 -7.66163068e-13 95.90766 38.9617026 95.90766 38.9617026 76.7981085 87 76.7981085"></polygon>
+            <polygon id="Path-8-Copy-9" transform="translate(43.5, 162.9116) rotate(180) translate(-43.5, -162.9116)" points="87 133.915514 4.88925064e-13 133.915514 0.0881356361 191.90766 38.9617026 191.90766 38.9617026 172.757175 87 172.757175"></polygon>
+            <polygon id="Path-8-Copy" points="172.928476 2.16248123e-14 87 -1.33950017e-17 87 57.8701426 124.942844 57.8701426 124.942844 38.8705193 172.928476 38.8705193"></polygon>
+            <polygon id="Path-8-Copy-4" points="172.928476 95.8702565 87 95.95383 87 152.90766 125.030444 152.90766 125.030444 133.915514 172.928476 133.915514"></polygon>
+            <polygon id="Path-8-Copy-7" transform="translate(129.9202, 67.4035) rotate(180) translate(-129.9202, -67.4035)" points="172.928476 38.8531477 86.9118644 38.9367212 86.9118644 95.95383 124.802043 95.95383 124.802043 76.936835 172.840341 76.846936"></polygon>
+            <polygon id="Path-8-Copy-10" transform="translate(129.9642, 162.9116) rotate(180) translate(-129.9642, -162.9116)" points="172.928476 133.915514 87 133.915514 87 191.90766 124.890179 191.90766 124.890179 172.757175 172.928476 172.757175"></polygon>
+            <polygon id="Path-8-Copy-2" points="258.908241 3.4958494e-13 172.928476 3.02797588e-13 172.928476 57.8701426 211.116129 57.8701426 211.116129 38.8531477 258.908241 38.8531477"></polygon>
+            <polygon id="Path-8-Copy-5" points="258.908241 95.95383 172.928476 95.8702565 172.928476 152.90766 211.064535 152.90766 211.064535 133.757175 258.908241 133.757175"></polygon>
+            <polygon id="Path-8-Copy-8" transform="translate(215.9184, 67.3804) rotate(180) translate(-215.9184, -67.3804)" points="258.908241 38.8531477 172.928476 38.8905512 172.928476 95.90766 211.122049 95.90766 211.122049 76.890665 258.908241 76.890665"></polygon>
+            <polygon id="Path-8-Copy-11" transform="translate(215.9184, 162.9116) rotate(180) translate(-215.9184, -162.9116)" points="258.908241 133.915514 172.928476 133.915514 172.928476 191.90766 210.898872 191.90766 210.898872 172.915514 258.908241 172.915514"></polygon>
+        </g>
+        <g id="Arrow" transform="translate(132, 24)">
+            <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <g id="Group">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+            <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

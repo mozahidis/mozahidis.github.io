@@ -1,0 +1,637 @@
+// Generic
+.p-datatable-wrapper {
+  height: 300px;
+}
+
+.req-res-fullscreen .table-container .p-datatable-wrapper {
+  height: calc((100vh - 320px) / 2) !important;
+}
+
+.docked-sidebar {
+  .grid-no-fullscreen .landing-grid-container {
+    &:not(.elastic-filter-exists) {
+      .compact-grid .p-datatable-wrapper {
+        height: calc(100vh - 700px) !important;
+        // max-height: calc(100vh - 680px) !important;
+      }
+
+      .p-datatable-wrapper {
+        height: calc(100vh - 720px) !important;
+        // max-height: calc(100vh - 700px) !important;
+
+        .expanded-mode .p-datatable-wrapper {
+          min-height: auto !important;
+          max-height: auto !important;
+          height: auto !important;
+        }
+      }
+    }
+
+    &.elastic-filter-exists {
+      .compact-grid .p-datatable-wrapper {
+        height: calc(100vh - 715px) !important;
+        // max-height: calc(100vh - 715px) !important;
+      }
+
+      .p-datatable-wrapper {
+        height: calc(100vh - 735px) !important;
+        // max-height: calc(100vh - 735px) !important;
+
+        .expanded-mode .p-datatable-wrapper {
+          min-height: auto !important;
+          max-height: auto !important;
+          height: auto !important;
+        }
+      }
+    }
+
+    .lookup-paginator .p-paginator {
+      bottom: 420px !important;
+    }
+  }
+
+  .grid-fullscreen .landing-grid-container {
+    &:not(.elastic-filter-exists) {
+      .compact-grid .p-datatable-wrapper {
+        height: calc(100vh - 560px) !important;
+        // max-height: calc(100vh - 540px) !important;
+      }
+
+      .p-datatable-wrapper {
+        height: calc(100vh - 560px) !important;
+        // max-height: calc(100vh - 540px) !important;
+
+        .expanded-mode .p-datatable-wrapper {
+          min-height: auto !important;
+          max-height: auto !important;
+          height: auto !important;
+        }
+      }
+    }
+
+    &.elastic-filter-exists {
+      .compact-grid .p-datatable-wrapper {
+        height: calc(100vh - 575px) !important;
+        // max-height: calc(100vh - 575px) !important;
+      }
+
+      .p-datatable-wrapper {
+        height: calc(100vh - 575px) !important;
+        // max-height: calc(100vh - 575px) !important;
+
+        .expanded-mode .p-datatable-wrapper {
+          min-height: auto !important;
+          max-height: auto !important;
+          height: auto !important;
+        }
+      }
+    }
+  }
+}
+
+app-glcodelookup .gl-code-lookup .small-ht .p-datatable-wrapper {
+  height: calc(((100vh - 270px) / 3) - 60px) !important;
+  min-height: 185px !important;
+}
+
+.grid-no-fullscreen .landing-grid-container {
+  &:not(.elastic-filter-exists) {
+    .compact-grid .p-datatable-wrapper {
+      height: calc(100vh - 280px) !important;
+      // max-height: calc(100vh - 280px) !important;
+    }
+
+    .p-datatable-wrapper {
+      height: calc(100vh - 300px) !important;
+      // max-height: calc(100vh - 300px) !important;
+
+      .expanded-mode .p-datatable-wrapper {
+        min-height: auto !important;
+        max-height: auto !important;
+        height: auto !important;
+      }
+    }
+  }
+
+  &.elastic-filter-exists {
+    .compact-grid .p-datatable-wrapper {
+      height: calc(100vh - 315px) !important;
+      // max-height: calc(100vh - 315px) !important;
+    }
+
+    .p-datatable-wrapper {
+      height: calc(100vh - 335px) !important;
+      // max-height: calc(100vh - 335px) !important;
+
+      .expanded-mode .p-datatable-wrapper {
+        min-height: auto !important;
+        max-height: auto !important;
+        height: auto !important;
+      }
+    }
+  }
+
+  .lookup-paginator .p-paginator {
+    position: fixed;
+    left: 48px;
+    width: calc(100% - 48px);
+    bottom: 0;
+    background: var(--primaryBg);
+    border-top: var(--primaryBg);
+    color: var(--primaryText);
+  }
+}
+
+.grid-fullscreen .landing-grid-container {
+  &:not(.elastic-filter-exists) {
+    .compact-grid .p-datatable-wrapper {
+      height: calc(100vh - 140px) !important;
+      // max-height: calc(100vh - 140px) !important;
+    }
+
+    .p-datatable-wrapper {
+      height: calc(100vh - 140px) !important;
+      // max-height: calc(100vh - 140px) !important;
+
+      .expanded-mode .p-datatable-wrapper {
+        min-height: auto !important;
+        max-height: auto !important;
+        height: auto !important;
+      }
+    }
+  }
+
+  &.elastic-filter-exists {
+    .compact-grid .p-datatable-wrapper {
+      height: calc(100vh - 175px) !important;
+      // max-height: calc(100vh - 175px) !important;
+    }
+
+    .p-datatable-wrapper {
+      height: calc(100vh - 175px) !important;
+      // max-height: calc(100vh - 175px) !important;
+
+      .expanded-mode .p-datatable-wrapper {
+        min-height: auto !important;
+        max-height: auto !important;
+        height: auto !important;
+      }
+    }
+  }
+}
+
+.insights-sidebar {
+  &.bottomSidebar .p-datatable-wrapper {
+    height: 350px !important;
+  }
+
+  &.bottomSidebar .trailer-plan-lines {
+    .p-datatable-wrapper {
+      height: 300px !important;
+    }
+  }
+}
+
+// Lookups
+.alternate-item-grid-container .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 295px) !important;
+  max-height: calc(var(--app-height) - 295px) !important;
+}
+
+.sync-error-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 310px) !important;
+  max-height: calc(var(--app-height) - 310px) !important;
+}
+
+.alt-item-lookup .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 310px) !important;
+  max-height: calc(var(--app-height) - 310px) !important;
+}
+
+.supplier-lookup {
+  .p-datatable-wrapper {
+    min-height: calc(var(--app-height) - 310px) !important;
+    max-height: calc(var(--app-height) - 310px) !important;
+  }
+
+  .grid-container {
+    min-height: calc(var(--app-height) - 277px) !important;
+  }
+}
+
+.tableview-grid .p-datatable-wrapper {
+  height: calc(100vh - 300px) !important;
+}
+
+// Sales Order
+.addlines-step-2 {
+  .p-datatable-wrapper {
+    max-height: calc(100vh - 350px) !important;
+    min-height: calc(100vh - 350px) !important;
+  }
+}
+
+.detail-tab-grid-container .p-datatable-wrapper {
+  height: calc(100vh - 390px) !important;
+}
+
+.short-grid-container .p-datatable-wrapper {
+  height: calc(100vh - 790px) !important;
+}
+
+.invoice-check-osreceipt .p-datatable-wrapper {
+  height: 230px !important;
+}
+
+.lines-grid-container .p-datatable-wrapper {
+  height: calc(100vh - 370px) !important;
+
+  .expanded-mode .p-datatable-wrapper {
+    min-height: auto !important;
+    max-height: auto !important;
+    height: auto !important;
+  }
+}
+
+// Purchase Order
+.price-group-line-grid .p-datatable-wrapper {
+  min-height: 300px !important;
+  max-height: 300px !important;
+}
+
+.price-change-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 290px) !important;
+  max-height: calc(var(--app-height) - 290px) !important;
+}
+
+.asn-line-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 482px) !important;
+  max-height: calc(var(--app-height) - 482px) !important;
+}
+
+.from-popup .asn-line-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 480px) !important;
+  max-height: calc(var(--app-height) - 480px) !important;
+}
+
+.generate-po-polist .gen-grid>p-table>.p-datatable>.p-datatable-wrapper {
+  min-height: 200px !important;
+  max-height: calc(var(--app-height) - 290px) !important;
+  height: calc(var(--app-height) - 290px) !important;
+}
+
+// Outsource
+.ship-header-note-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 465px) !important;
+  max-height: calc(var(--app-height) - 465px) !important;
+}
+
+.ship-header-note-preview-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 430px) !important;
+  max-height: calc(var(--app-height) - 430px) !important;
+}
+
+.shipto-customer-grid-container .p-datatable-wrapper {
+  min-height: 300px !important;
+  max-height: 300px !important;
+}
+
+.inventory-breakdown-grid-container .p-datatable-wrapper {
+  min-height: 270px !important;
+  max-height: 270px !important;
+}
+
+.temp-create-container .p-datatable-wrapper {
+  height: calc(100vh - 300px) !important;
+}
+
+.templates-parent .p-datatable-wrapper {
+  height: calc(100vh - 390px) !important;
+}
+
+.receipt-grid .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 270px) !important;
+  max-height: calc(var(--app-height) - 270px) !important;
+
+  .myTableExpanded .p-datatable-wrapper {
+    min-height: auto !important;
+    max-height: 330px !important;
+  }
+}
+
+.outsource-order-detail-container.master-container-collapsed {
+
+  .outsource-order-lines,
+  .outsource-shipping-instruction {
+    .p-datatable-wrapper {
+      height: calc(var(--app-height) - 325px) !important;
+    }
+  }
+}
+
+.order-lines-details-grids .p-datatable-wrapper {
+  min-height: calc(var(--app-height) - 445px) !important;
+  max-height: calc(var(--app-height) - 445px) !important;
+
+  .expandedModeTD .p-datatable-wrapper {
+    height: auto !important;
+    max-height: 330px !important;
+  }
+}
+
+.estimate-line-grid .p-datatable-wrapper {
+  height: 197px !important;
+}
+
+.requirements-detail-container {
+  &.master-container-collapsed {
+    .p-datatable-wrapper {
+      height: calc(100vh - 380px) !important;
+      min-height: calc(100vh - 380px) !important;
+      max-height: calc(100vh - 380px) !important;
+
+      .expandedModeTD .p-datatable-wrapper {
+        height: auto !important;
+        max-height: 330px !important;
+      }
+    }
+
+    .ship-to-supplier-line-grid .p-datatable-wrapper {
+      height: 240px !important;
+      min-height: 240px !important;
+      max-height: 240px !important;
+    }
+  }
+
+  &:not(.master-container-collapsed) {
+    .p-datatable-wrapper {
+      height: 300 !important;
+
+      .expandedModeTD .p-datatable-wrapper {
+        height: auto !important;
+        max-height: 300px !important;
+      }
+    }
+
+    .ship-to-supplier-line-grid .p-datatable-wrapper {
+      height: 240px !important;
+      min-height: 240px !important;
+      max-height: 240px !important;
+    }
+  }
+}
+
+.receipt-breakdown-grid.fromPopup .p-datatable-wrapper {
+  min-height: 190px !important;
+  max-height: 190px !important;
+}
+
+.receipt-breakdown-grid .p-datatable-wrapper {
+  min-height: 250px !important;
+  max-height: 250px !important;
+}
+
+.order-list-grid-container .p-datatable-wrapper {
+  height: calc(var(--app-height) - 420px) !important;
+
+  .expandedModeTD .p-datatable-wrapper {
+    height: auto !important;
+    max-height: 300px !important;
+  }
+}
+
+.po-tax-detail .p-datatable-wrapper {
+  min-height: 250px !important;
+  max-height: 250px !important;
+}
+
+// Access Management
+.features-grid .p-datatable-wrapper {
+  height: calc(100vh - 260px) !important;
+
+  .expandedModeTD {
+    .p-datatable-wrapper {
+      height: auto !important;
+      max-height: 300px !important;
+    }
+
+    .fas.fa-users,
+    .fas.fa-user,
+    .fas.fa-user-tag {
+      color: var(--primaryColor);
+      background: var(--secondaryBtnBgColor);
+      height: 32px;
+      width: 32px;
+      border-radius: 50%;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      margin-left: 7px;
+      cursor: auto;
+    }
+
+    .checkbox-checked,
+    .checkbox-unchecked {
+      >div {
+        display: none;
+      }
+    }
+  }
+}
+
+.delegate-grid-container .p-datatable-wrapper {
+  height: calc(100vh - 275px) !important;
+}
+
+// Requirement Details Page - Tab Section
+.table-container {
+  .p-datatable-wrapper {
+    height: 265px !important;
+
+    .ht-auto .p-datatable-wrapper,
+    .expandedModeTD .p-datatable-wrapper {
+      height: auto !important;
+      max-height: 300px !important;
+    }
+  }
+
+  &.pallet-breakdown .p-datatable-wrapper {
+    height: 370px !important;
+  }
+
+  &.collapsed-height .p-datatable-wrapper {
+    height: calc(var(--app-height) - 390px) !important;
+
+    .ht-auto .p-datatable-wrapper,
+    .expandedModeTD .p-datatable-wrapper {
+      height: auto !important;
+      max-height: 300px !important;
+    }
+  }
+}
+
+.fullscreen .table-container .p-datatable-wrapper {
+  height: calc(100vh - 230px) !important;
+
+  .expandedModeTD .p-datatable-wrapper {
+    height: auto !important;
+    max-height: 300px !important;
+  }
+}
+
+.expanded-section {
+  p-table {
+    .p-datatable-table .p-datatable-thead tr th {
+      >span:not(.p-column-resizer):not(.dot-icon) {
+        width: calc(100% - 16px) !important;
+      }
+    }
+
+    p-sorticon>.pi {
+      font-size: 12px !important;
+    }
+  }
+}
+
+.expanded-section.full-screen-grid-container p-table .p-datatable-scrollable .p-datatable-wrapper {
+  height: calc(100vh - 570px) !important;
+  min-height: 200px;
+}
+
+.reconfirm-grid-container {
+  .p-datatable-wrapper {
+    height: 250px !important;
+    min-height: 205px;
+  }
+}
+
+.card-detail-container .p-datatable-wrapper {
+  height: 220px !important;
+}
+
+.traceability-grid .p-datatable-wrapper {
+  height: calc(100vh - 280px) !important;
+
+  .expanded-mode {
+    padding: 0px !important;
+    background-color: var(--primaryBg);
+  }
+}
+
+// Shipping
+
+.flattened-grid .p-datatable-wrapper {
+  height: 700px !important;
+
+  .expanded-mode .p-datatable-wrapper {
+    height: auto !important;
+    max-height: 300px !important;
+  }
+}
+
+.bol_additionalitem_lines_grid .p-datatable-wrapper {
+  min-height: 300px !important;
+  height: calc(100vh - 640px) !important;
+}
+
+.bol-shipping-container .p-datatable-wrapper {
+  height: 270px !important;
+}
+
+.master-container-collapsed .bol-shipping-container .p-datatable-wrapper {
+  height: calc(100vh - 370px) !important;
+}
+
+.confirm-handheld-return-grid-container .p-datatable-wrapper {
+  height: calc(100vh - 335px) !important;
+}
+
+.reset-batch-returns .p-datatable-wrapper {
+  height: calc(100vh - 255px) !important;
+}
+
+// Job
+.job-position-detail .p-datatable-wrapper {
+  height: calc(var(--app-height) - 415px) !important;
+}
+
+.job-tab-grids {
+  .p-datatable-wrapper {
+    height: calc(100vh - 370px) !important;
+  }
+
+  .comments.grid-auto-height .p-datatable-wrapper {
+    min-height: 130px !important;
+    max-height: 300px !important;
+    height: auto !important;
+  }
+}
+
+.issue-req-grid .p-datatable-wrapper {
+  height: 500px !important;
+}
+
+.ProdStepEnquiry .p-datatable-wrapper {
+  height: calc(100vh - 300px) !important;
+}
+
+.wip-cal-run-enquiry .p-datatable-wrapper {
+  max-height: 290px;
+  min-height: 200px;
+}
+
+.grid-auto-height {
+  .p-datatable-wrapper {
+    height: auto !important;
+  }
+}
+
+.grid-height-200 {
+  .p-datatable-wrapper {
+    height: 200px !important;
+  }
+}
+
+// Estimate
+.est-landing-grid-container {
+  .grid-no-fullscreen .landing-grid-container:not(.elastic-filter-exists) .compact-grid .p-datatable-wrapper {
+    height: calc(100vh - 240px) !important;
+  }
+}
+
+.grouped-node-row .p-datatable-wrapper {
+  height: auto !important;
+  max-height: 300px;
+  min-height: 10px;
+}
+
+// Accounting 
+.replace-final-invoice-grid-max {
+  .p-datatable-wrapper {
+    height: calc(100vh - 340px) !important;
+  }
+}
+
+.batch-pl-documents-grid {
+  .p-datatable-wrapper {
+    height: calc(100vh - 610px) !important;
+  }
+}
+
+.accounting-full-page {
+  .p-datatable-wrapper {
+    height: calc(100vh - 230px) !important;
+  }
+}
+
+.accounting-half-page {
+  .p-datatable-wrapper {
+    height: calc(50vh - 165px) !important;
+  }
+}
+
+.inv-breakdown-grid {
+  .p-datatable-wrapper {
+    height: calc(100vh - 485px) !important;
+  }
+}

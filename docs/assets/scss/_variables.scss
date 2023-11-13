@@ -1,0 +1,95 @@
+$baseFontSize:14px;
+$PageHeaderFontSize:16px;
+$SubheaderFontSize:14px;
+$gridheaderfontSize:12px;
+$flagsize: 20px;
+
+/*Start - Universal Colors*/
+$white:    #fff !default;
+$gray-100: #f8f9fa !default;
+$gray-150: #F1F2F7;
+$navblue: #0366D6;
+$gray-200: #e9ecef !default;
+$gray-250: #90A4AE;
+$gray-300: #dee2e6 !default;
+$gray-400: #ced4da !default;
+$gray-450: #cfd8dc;
+$gray-500: #adb5bd !default;
+$gray-600: #6c757d !default;
+$gray-700: #495057 !default;
+$gray-800: #343a40 !default;
+$gray-900: #212529 !default;
+$gray-950: #282D30;
+$gray-960: #B0BEC5;
+$gray-970: #78909c;
+$gray-980:#ECEFF1;
+$gray-1000:#546e7a;
+$black:    #000 !default;
+$blue-100: #D6E3FF;
+$blue-150: #021B79;
+$blue-200:#D4EEFF;
+$green02: #45B649;  
+$gray06:#607D8B;
+
+/* new variables*/
+
+$marginpaddingacross:var(--marginpaddingacross);
+$borderradius:12px;
+$darkblue:#0747A6;
+$gray-1100:#F1F2F4;
+$gray-1150:#F6F6F6;
+$darkgray:#172B4D;
+$graynew:#19252A;
+$blue-250:#DEEBFF;
+$dialogclosecolor:$gray06;
+
+
+/*new variables*/
+
+/*End - Universal Colors*/
+
+/*Start - Colors*/
+$red: #C10100;
+$red01: #E40504;
+$blue: #0054FE;
+
+/*END - Colors*/
+
+$primary-color:$blue;
+$secondary-color:$gray-150;
+$hover-color:$blue-150;
+
+$gridheadertextcolor:#607D8B;
+$gridheaderhovercolor:#d3d5d8;
+$gridrowcolor:#F7F9F9;
+$gridlatrowcolor:$white;
+
+$textboxgackgroundcolor:$white;
+$textboxbordercolor: #B0BEC5;
+
+/*KPI colors*/
+$completedcolor:#8FD703;
+$allcolor:$blue;
+$authorizedcolor:#11A2FF;
+$creditheldcolor:#FFCB00;
+$heldcolor:#FD5181;
+
+
+/*Icon Sizes*/
+$kpiicons:24px;
+$gridactions:16px;
+$gridactionsicon:14px;
+$representativeiconsize14: 14px;
+$labeltextsize14: 14px;
+$labeltextsize13: 13px;
+$representativeiconsize15: 15px;
+$labeltextsize15: 15px;
+$iconcolor:$darkblue;
+$padding28: 28px;
+$padding16: 16px;
+$padding10: 10px;
+
+
+
+
+

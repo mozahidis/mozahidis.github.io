@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b6121bot@2x</title>
+    <g id="b6121bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-16" transform="translate(70, -22)" stroke="#0F4CAD">
+            <rect id="Rectangle" fill="#FFFFFF" x="100.5" y="20.5" width="80" height="71"></rect>
+            <rect id="Rectangle-Copy" fill="#FFFFFF" x="0.5" y="20.5" width="80" height="71"></rect>
+            <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="80.5" y="0.5" width="20" height="71"></rect>
+            <polygon id="Path" fill="#FFFFFF" stroke-linejoin="round" points="80.5 91.5 90.5 81.5 100.5 91.5 100.5 71.5 80.5 71.5"></polygon>
+            <line x1="20.5" y1="20.5" x2="20.5" y2="91.5" id="Line-12" stroke-linecap="square"></line>
+            <line x1="80.5" y1="20.5" x2="80.5" y2="91.5" id="Line-12-Copy" stroke-linecap="square"></line>
+            <line x1="100.5" y1="20.5" x2="100.5" y2="91.5" id="Line-12-Copy-2" stroke-linecap="square"></line>
+            <line x1="160.5" y1="20.5" x2="160.5" y2="91.5" id="Line-12-Copy-3" stroke-linecap="square"></line>
+            <line x1="0.5" y1="71.5" x2="179.5" y2="71.5" id="Line-13" stroke-linecap="square"></line>
+            <line x1="20.5" y1="71.5" x2="40.5" y2="91.5" id="Line-14" stroke-linecap="square"></line>
+            <line x1="160.5" y1="71.5" x2="180.5" y2="91.5" id="Line-14-Copy-7" stroke-linecap="square"></line>
+            <line x1="1.5" y1="71.5" x2="20.5" y2="90.5" id="Line-14-Copy-6" stroke-linecap="square" transform="translate(11, 81) rotate(-90) translate(-11, -81)"></line>
+            <line x1="80.5" y1="71.5" x2="100.5" y2="91.5" id="Line-14-Copy-4" stroke-linecap="square"></line>
+            <line x1="80.5" y1="71.5" x2="100.5" y2="91.5" id="Line-14-Copy-5" stroke-linecap="square" stroke-linejoin="round" transform="translate(90.5, 81.5) rotate(-90) translate(-90.5, -81.5)"></line>
+            <line x1="140.5" y1="71.5" x2="160.5" y2="91.5" id="Line-14-Copy-2" stroke-linecap="square" transform="translate(150.5, 81.5) rotate(-90) translate(-150.5, -81.5)"></line>
+        </g>
+    </g>
+</svg>

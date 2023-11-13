@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b4153bot@2x</title>
+    <g id="b4153bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-28" transform="translate(64.3201, -11)" stroke="#0F4CAD">
+            <polygon id="Path-19" fill="#00FFFF" points="0 9.03559561 0 55.4793531 6 61.0355956 6 9.03559561"></polygon>
+            <path d="M26.1799264,8.5 L26.1799264,60.4965094 L6.04645772,60.356441 L6.04645772,8.5 L26.1799264,8.5 Z" id="Rectangle" fill="#FFFFFF"></path>
+            <rect id="Rectangle-Copy-15" fill="#FFFFFF" x="86.1799264" y="8.5" width="20" height="52"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="26.1799264" y="8.5" width="60" height="52"></rect>
+            <rect id="Rectangle-Copy-16" fill="#FFFFFF" x="106.179926" y="8.5" width="60" height="52"></rect>
+            <path d="M166.179926,60.5 L166.179926,75 C166.179926,76.5187831 165.564318,77.8937831 164.569014,78.8890873 C163.573709,79.8843915 162.198709,80.5 160.679926,80.5 L111.679926,80.5 C110.161143,80.5 108.786143,79.8843915 107.790839,78.8890873 C106.795535,77.8937831 106.179926,76.5187831 106.179926,75 L106.179926,60.5 L166.179926,60.5 Z" id="Rectangle" fill="#FFFF00"></path>
+            <path d="M206.179926,20.5 L206.179926,35 C206.179926,36.5187831 205.564318,37.8937831 204.569014,38.8890873 C203.573709,39.8843915 202.198709,40.5 200.679926,40.5 L151.679926,40.5 C150.161143,40.5 148.786143,39.8843915 147.790839,38.8890873 C146.795535,37.8937831 146.179926,36.5187831 146.179926,35 L146.179926,20.5 L206.179926,20.5 Z" id="Rectangle" fill="#FFFF00" transform="translate(176.1799, 30.5) rotate(-90) translate(-176.1799, -30.5)"></path>
+            <rect id="Rectangle" fill="#FFFFFF" x="26.1799264" y="60.5" width="60" height="20"></rect>
+            <polygon id="Path-21" fill="#00FFFF" stroke-linejoin="bevel" points="26.2349234 80.4603907 86.1799264 80.4603907 80.1222243 86.5565132 31.2179457 86.5565132"></polygon>
+            <polygon id="Path-20" fill="#00FF00" points="6.22830308 60.4467561 26.2349234 60.4467561 22.1713897 73.5786422 10.1728968 73.5786422"></polygon>
+            <polygon id="Path-20-Copy" fill="#00FF00" points="86.2283031 60.4467561 106.234923 60.4467561 102.17139 73.5786422 90.1728968 73.5786422"></polygon>
+        </g>
+    </g>
+</svg>

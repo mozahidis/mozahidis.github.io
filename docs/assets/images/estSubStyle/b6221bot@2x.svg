@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b6221bot@2x</title>
+    <g id="b6221bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-21" transform="translate(50, -2)" stroke="#0F4CAD">
+            <path d="M0.558030313,0.576468524 L0.558030313,31.5493574 L40.537629,71.5448058 L100.5,71.5448058 L120.469738,51.6502488 L120.469738,71.5448058 C160.561956,71.5448058 180.608065,71.5448058 180.608065,71.5448058 C180.608065,71.5448058 193.928956,58.2129896 220.570737,31.5493574 L220.570737,0.576468524 L0.558030313,0.576468524 Z" id="Path-12" fill="#FFFFFF"></path>
+            <line x1="20.5" y1="51.5" x2="20.5" y2="1.5" id="Line-15" stroke-linecap="square"></line>
+            <line x1="40.5" y1="70.5" x2="40.5" y2="1.5" id="Line-15-Copy" stroke-linecap="square"></line>
+            <line x1="199.5" y1="51.5" x2="20.5" y2="51.5" id="Line-16" stroke-linecap="square"></line>
+            <line x1="100.5" y1="70.5" x2="100.5" y2="1.5" id="Line-15-Copy-2" stroke-linecap="square"></line>
+            <line x1="120.5" y1="51.5" x2="120.5" y2="1.5" id="Line-15-Copy-3" stroke-linecap="square"></line>
+            <line x1="180.5" y1="71.5" x2="180.5" y2="1.5" id="Line-15-Copy-4" stroke-linecap="square"></line>
+            <line x1="200.5" y1="50.5" x2="200.5" y2="0.5" id="Line-15-Copy-5" stroke-linecap="square"></line>
+            <line x1="30.5" y1="61.5" x2="39.5" y2="52.5" id="Line-17" stroke-linecap="square"></line>
+            <line x1="101.5" y1="61.5" x2="110.5" y2="52.5" id="Line-17-Copy" stroke-linecap="square" transform="translate(106, 57) rotate(90) translate(-106, -57)"></line>
+            <line x1="181.5" y1="61.5" x2="190.5" y2="52.5" id="Line-17-Copy-2" stroke-linecap="square" transform="translate(186, 57) rotate(90) translate(-186, -57)"></line>
+            <g id="Group-20" transform="translate(205, 26)" stroke-linecap="square">
+                <line x1="15.5" y1="1.5" x2="0.5" y2="1.5" id="Line-18"></line>
+                <line x1="0.5" y1="0.5" x2="0.5" y2="1.5" id="Line-19"></line>
+            </g>
+            <g id="Group-20-Copy" transform="translate(8, 27) scale(-1, 1) translate(-8, -27)translate(0, 26)" stroke-linecap="square">
+                <line x1="15.5" y1="1.5" x2="0.5" y2="1.5" id="Line-18"></line>
+                <line x1="0.5" y1="0.5" x2="0.5" y2="1.5" id="Line-19"></line>
+            </g>
+        </g>
+    </g>
+</svg>

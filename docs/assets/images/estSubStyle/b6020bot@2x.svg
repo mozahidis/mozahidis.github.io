@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b6020bot@2x</title>
+    <g id="b6020bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-16" transform="translate(70, -2)" stroke="#0F4CAD">
+            <rect id="Rectangle" fill="#FFFFFF" x="0.5" y="0.5" width="180" height="71"></rect>
+            <line x1="20.5" y1="0.5" x2="20.5" y2="71.5" id="Line-12" stroke-linecap="square"></line>
+            <line x1="80.5" y1="0.5" x2="80.5" y2="71.5" id="Line-12-Copy" stroke-linecap="square"></line>
+            <line x1="100.5" y1="0.5" x2="100.5" y2="71.5" id="Line-12-Copy-2" stroke-linecap="square"></line>
+            <line x1="160.5" y1="0.5" x2="160.5" y2="71.5" id="Line-12-Copy-3" stroke-linecap="square"></line>
+            <line x1="0.5" y1="51.5" x2="179.5" y2="51.5" id="Line-13" stroke-linecap="square"></line>
+            <line x1="20.5" y1="51.5" x2="40.5" y2="71.5" id="Line-14" stroke-linecap="square"></line>
+            <line x1="100.5" y1="51.5" x2="120.5" y2="71.5" id="Line-14-Copy" stroke-linecap="square"></line>
+            <line x1="140.5" y1="51.5" x2="160.5" y2="71.5" id="Line-14-Copy-2" stroke-linecap="square" transform="translate(150.5, 61.5) rotate(-90) translate(-150.5, -61.5)"></line>
+        </g>
+    </g>
+</svg>

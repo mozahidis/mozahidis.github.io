@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>a20lbot@2x</title>
+    <g id="a20lbot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="120"></rect>
+        <g id="Group-2" transform="translate(147.500000, 38.500000) scale(1, -1) translate(-147.500000, -38.500000) translate(54.000000, -2.000000)">
+            <polyline id="Path-2" stroke="#FFFFFF" fill="#FFFFFF" points="0.514742567 80 0.514742567 43.5 6.45699678 37.5 6.45699678 80"></polyline>
+            <path d="M151,0.5 C152.518783,0.5 153.893783,1.11560847 154.889087,2.1109127 C155.884392,3.10621694 156.5,4.48121694 156.5,6 L156.5,36.5 L96.5,36.5 L96.5,6 C96.5,4.48121694 97.1156085,3.10621694 98.1109127,2.1109127 C99.1062169,1.11560847 100.481217,0.5 102,0.5 L151,0.5 Z" id="Rectangle" stroke="#0F4CAD" fill="#FFFFFF"></path>
+            <rect id="Rectangle" stroke="#0F4CAD" fill="#FFFFFF" x="6.5" y="36.5" width="180" height="44"></rect>
+            <line x1="97.5" y1="6.5" x2="101.5" y2="6.5" id="Line-5" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="151.5" y1="6.5" x2="155.5" y2="6.5" id="Line-5-Copy" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="101.5" y1="7.5" x2="151.5" y2="7.5" id="Line-4" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="66.5" y1="35.5" x2="66.5" y2="78.5" id="Line" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="96.5" y1="5.85227273" x2="96.5" y2="79.1477273" id="Line-Copy" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="156.5" y1="5.85227273" x2="156.5" y2="79.1477273" id="Line-Copy-2" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="0.5" y1="42.5" x2="0.5" y2="78.5" id="Line-2" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <line x1="0.5" y1="42.5" x2="6.5" y2="36.5" id="Line-3" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <polygon id="Path" stroke="#0F4CAD" fill="#00FFFF" points="70.2469998 18.3582422 96.5 18.3582422 96.5 36.3582422 66.5 36.3582422"></polygon>
+            <polygon id="Path-Copy" stroke="#0F4CAD" fill="#00FFFF" transform="translate(171.500000, 27.358242) scale(-1, 1) translate(-171.500000, -27.358242) " points="160.247 18.3582422 186.5 18.3582422 186.5 36.3582422 156.5 36.3582422"></polygon>
+        </g>
+    </g>
+</svg>

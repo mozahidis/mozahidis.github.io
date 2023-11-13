@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b4810top@2x</title>
+    <g id="b4810top" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-24" transform="translate(150.8107, 75.7752) scale(1, -1) translate(-150.8107, -75.7752)translate(80.6214, 30)" stroke="#0F4CAD">
+            <polygon id="Path-17" fill="#FFFFFF" points="1.13458245e-13 51.5 1.72703577e-13 1 119.661961 1 119.924066 71.4802545 99.8103615 71.4802545 99.8103615 91.5504914 39.8786182 91.5504914 39.8786182 71.4802545 19.8786182 71.4802545 19.8786182 51.5"></polygon>
+            <rect id="Rectangle" fill="#FFFFFF" x="119.878618" y="0.5" width="20" height="51"></rect>
+            <line x1="40.8786182" y1="71.5" x2="99.8786182" y2="71.5" id="Line-27" stroke-linecap="square"></line>
+            <line x1="19.8786182" y1="1.5" x2="19.8786182" y2="51.5" id="Line-25" stroke-linecap="square"></line>
+            <line x1="39.8786182" y1="1.5" x2="39.8786182" y2="71.5" id="Line-25-Copy" stroke-linecap="square"></line>
+            <line x1="99.8786182" y1="1.5" x2="99.8786182" y2="71.5" id="Line-25-Copy-2" stroke-linecap="square"></line>
+            <line x1="19.8786182" y1="51.5" x2="119.878618" y2="51.5" id="Line-26" stroke-linecap="square"></line>
+        </g>
+        <g id="Arrow" transform="translate(128, 88)">
+            <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+            <g id="Group">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+            <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,63 @@
+.dot-button
+{
+    text-align: center;
+    width: auto;
+    padding: 8px 16px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    font-size: 13px;
+    cursor: pointer;
+    outline: none;
+   
+}
+
+.dot-button-regular
+{
+    border: 1px solid var(--primaryColor);
+    background-color: var(--primaryColor);
+    color: $white;
+    &:not([disabled]):hover,
+    &:focus {
+        background-color: $hover-color;
+        color: $white;
+    }
+}
+
+.dot-button-secondary
+{
+    border: 1px solid var(--primaryColor);
+    background-color: $white;
+    color: var(--primaryColor);
+    
+    &:not([disabled]):hover,
+    &:focus {
+        background-color: $hover-color;
+        color: $white;
+    }
+}
+
+.dot-button-actions
+{
+    width:32px;
+    height:32px;
+    border-radius: 100px;
+    border:0px;
+
+    background:#F1F2F4;
+    
+    color:$darkblue;
+    padding:6px 6px;
+    font-size:16px;
+    &:not([disabled]):hover,
+    &:focus {
+        background-color: var(--primaryColor);
+        color: $white;
+        // border:0px;
+    }
+}

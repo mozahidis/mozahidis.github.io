@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="301px" height="120px" viewBox="0 0 301 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>b4210bot@2x</title>
+    <g id="b4210bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="301" height="120"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="199"></rect>
+        <g id="Group-29" transform="translate(80, -3)" fill="#FFFFFF" stroke="#0F4CAD">
+            <g id="Group-28">
+                <rect id="Rectangle-Copy-16" x="40.5" y="0.5" width="60" height="52"></rect>
+                <rect id="Rectangle" x="40.5" y="52.5" width="60" height="20"></rect>
+                <rect id="Rectangle" transform="translate(110.5, 26.5) rotate(-90) translate(-110.5, -26.5)" x="84.5" y="16.5" width="52" height="20"></rect>
+                <rect id="Rectangle-Copy-18" transform="translate(30.5, 26.5) rotate(-90) translate(-30.5, -26.5)" x="4.5" y="16.5" width="52" height="20"></rect>
+                <rect id="Rectangle-Copy-19" transform="translate(10.5, 26.5) rotate(-90) translate(-10.5, -26.5)" x="-15.5" y="16.5" width="52" height="20"></rect>
+            </g>
+            <rect id="Rectangle" x="100.5" y="52.5" width="20" height="20"></rect>
+            <rect id="Rectangle-Copy-17" x="20.5" y="52.5" width="20" height="20"></rect>
+        </g>
+    </g>
+</svg>

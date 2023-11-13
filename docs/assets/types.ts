@@ -1,0 +1,28 @@
+export interface SalesOrder {
+    CompNum?,
+    PlantCode?,
+    SOrderNum?,
+    SOrderDate?,
+    CustCode?,
+    BillAddrNum?,
+    ShipAddrNum?,
+    OurContact?,
+    YourContact?,
+    EstCode?,
+    "est-k-seq"?,
+    createJob?,
+    JobCode?,
+    PlannedAvailDate?,
+    PrintStatus?
+    LastUserCode?,
+    TableRecId?,
+    CurrCode?,
+    DaysPrior?,
+    TermsCode?,
+    CustReqDate?,
+    AckPrintDate?,
+    AckAddrNum?,
+    TotalOrderedQty?,
+    RemitAddrNum?,
+    CustName?
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="209px" viewBox="0 0 300 209" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lay001a@2x</title>
+    <g id="lay001a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="300" height="209"></rect>
+        <rect id="Rectangle" fill="#E8EBFB" x="0" y="0" width="301" height="209"></rect>
+        <g id="Group-9" transform="translate(18, 28)">
+            <rect id="Rectangle" stroke="#0F4CAD" fill="#FFFFFF" x="0.5" y="0.5" width="87" height="48"></rect>
+            <rect id="Rectangle-Copy" stroke="#0F4CAD" fill="#FFFFFF" x="0.5" y="48.5" width="87" height="47"></rect>
+            <rect id="Rectangle-Copy-2" stroke="#0F4CAD" fill="#FFFFFF" x="0.5" y="95.5" width="87" height="48"></rect>
+            <rect id="Rectangle-Copy-3" stroke="#0F4CAD" fill="#FFFFFF" x="87.5" y="95.5" width="86" height="48"></rect>
+            <rect id="Rectangle-Copy-4" stroke="#0F4CAD" fill="#FFFFFF" x="173.5" y="95.5" width="86" height="48"></rect>
+            <rect id="Rectangle-Copy-5" stroke="#0F4CAD" fill="#FFFFFF" x="173.5" y="48.5" width="86" height="47"></rect>
+            <rect id="Rectangle-Copy-7" stroke="#0F4CAD" fill="#FFFFFF" x="173.5" y="0.5" width="86" height="48"></rect>
+            <rect id="Rectangle-Copy-6" stroke="#0F4CAD" fill="#FFFFFF" x="87.5" y="48.5" width="86" height="47"></rect>
+            <rect id="Rectangle-Copy-8" stroke="#0F4CAD" fill="#FFFFFF" x="87.5" y="0.5" width="86" height="48"></rect>
+            <g id="Arrow" transform="translate(109, 16)">
+                <line x1="2.61627907" y1="2.5" x2="42.3837209" y2="2.5" id="Line-6" stroke="#0F4CAD" stroke-linecap="square"></line>
+                <g id="Group">
+                    <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+                </g>
+                <g id="Group-Copy" transform="translate(43.4302, 2.5) scale(-1, 1) translate(-43.4302, -2.5)translate(41.8605, 0)">
+                    <line x1="2.61627907" y1="0.5" x2="2.61627907" y2="4.5" id="Line-7" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <line x1="1.56976744" y1="1.5" x2="1.56976744" y2="3.5" id="Line-8" stroke="#0F4CAD" stroke-linecap="square"></line>
+                    <rect id="Rectangle" fill="#0F4CAD" x="0" y="2" width="1.04651163" height="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

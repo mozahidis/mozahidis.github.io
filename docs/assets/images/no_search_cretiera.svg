@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="67px" viewBox="0 0 81 67" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-A---05" transform="translate(-853.000000, -176.000000)" fill-rule="nonzero">
+            <g id="Group" transform="translate(853.000000, 176.000000)">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="51" width="81" height="16"></rect>
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="26" width="81" height="16"></rect>
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="81" height="16"></rect>
+                <polygon id="Path" fill="#FFFFFF" points="2 14 79 14 79 2 2 2"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="2 40 79 40 79 28 2 28"></polygon>
+                <polygon id="Path" fill="#FFFFFF" points="2 65 79 65 79 53 2 53"></polygon>
+                <circle id="Oval" fill="#0054FE" cx="8" cy="8" r="4"></circle>
+                <rect id="Rectangle" fill="#0054FE" x="20" y="6" width="47" height="1"></rect>
+                <rect id="Rectangle" fill="#0054FE" x="20" y="9" width="47" height="1"></rect>
+                <circle id="Oval" fill="#CCCCCC" cx="8" cy="34" r="4"></circle>
+                <rect id="Rectangle" fill="#CCCCCC" x="20" y="32" width="47" height="1"></rect>
+                <rect id="Rectangle" fill="#CCCCCC" x="20" y="35" width="47" height="1"></rect>
+                <circle id="Oval" fill="#CCCCCC" cx="8" cy="59" r="4"></circle>
+                <rect id="Rectangle" fill="#CCCCCC" x="20" y="57" width="47" height="1"></rect>
+                <rect id="Rectangle" fill="#CCCCCC" x="20" y="60" width="47" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

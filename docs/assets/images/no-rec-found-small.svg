@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="100px" height="70px" viewBox="0 0 100 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>placeholder-small</title>
+    <g id="placeholder-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-22">
+            <path d="M94.7516444,53.1703135 C94.4868338,53.5364877 94.2114987,53.8992713 93.9334476,54.2518835 C92.3751392,56.2288849 90.6640556,57.9949971 88.9730024,59.4935987 C88.1653302,60.2089946 87.3637689,60.8599708 86.5863123,61.4431371 C84.8959381,62.7111846 83.3240498,63.6537441 82.064502,64.1965633 C70.1140763,69.3565675 47.7270586,72.3571613 29.3532791,67.6579263 C28.5523968,67.4544962 27.7579651,67.2341136 26.9733789,66.9967785 C22.5092838,65.6646505 18.3296903,63.8436121 14.6562924,61.4431371 C14.1742014,61.131211 13.6992399,60.8060619 13.2341239,60.4700632 C12.7927729,60.1550856 12.3612675,59.8292584 11.9402866,59.4935987 C4.67836595,53.7433082 -0.016929162,45.2772261 0,33.2782413 C0,32.1797189 0.0407859622,31.0574629 0.122605638,29.9013019 C1.5451137,9.72137615 15.4609092,0.271709495 29.1431281,0.00725037978 C29.553924,-0.00292112464 29.9609854,-0.00292112464 30.3683862,0.0106408813 C32.4566552,0.0479363975 34.5272702,0.30561451 36.544244,0.770113212 C46.7051614,3.11634023 50.6776595,9.368764 57.1383584,15.5391376 C68.2332423,26.1344547 79.3349162,8.36517556 94.7886499,26.0598637 C103.127127,35.6075159 100.204026,45.6942577 94.7516444,53.1703135" id="Fill-1" fill="#E5EDFE"></path>
+            <g id="Group-19" transform="translate(19.000000, 50.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="76" height="15" rx="3"></rect>
+                <rect id="Rectangle-Copy-4" fill="#FFFFFF" x="1.08571429" y="1.07142857" width="72.7428571" height="12.8571429" rx="2"></rect>
+                <ellipse id="Oval" fill="#E6E6E6" cx="10.3142857" cy="6.96428571" rx="3.8" ry="3.75"></ellipse>
+                <g id="Group-3" transform="translate(18.457143, 4.285714)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                    <rect id="Rectangle" x="0" y="3.75" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                </g>
+            </g>
+            <g id="Group-20" transform="translate(19.000000, 33.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="76" height="15" rx="3"></rect>
+                <rect id="Rectangle-Copy-3" fill="#FFFFFF" x="1.08571429" y="1.07142857" width="72.7428571" height="12.8571429" rx="2"></rect>
+                <ellipse id="Oval" fill="#E6E6E6" cx="10.3142857" cy="7.5" rx="3.8" ry="3.75"></ellipse>
+                <g id="Group-7" transform="translate(18.457143, 4.821429)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                    <rect id="Rectangle" x="0" y="3.75" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                </g>
+            </g>
+            <g id="Group-21" transform="translate(19.000000, 15.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="#E6E6E6" x="0" y="0" width="76" height="15" rx="3"></rect>
+                <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="1.08571429" y="1.60714286" width="72.7428571" height="11.7857143" rx="2"></rect>
+                <ellipse id="Oval" fill="#E6E6E6" cx="10.3142857" cy="8.03571429" rx="3.8" ry="3.75"></ellipse>
+                <g id="Group-2" transform="translate(18.457143, 5.357143)" fill="#E6E6E6">
+                    <rect id="Rectangle" x="0" y="0" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                    <rect id="Rectangle" x="0" y="3.75" width="43.9714286" height="1.60714286" rx="0.803571429"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

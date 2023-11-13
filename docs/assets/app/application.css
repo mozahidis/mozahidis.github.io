@@ -1,0 +1,52 @@
+.dot-header .logout-icon {
+  background: url(../images/core/svg/logout.svg) no-repeat #ffffff center;
+  display: inline-block;
+  /* float: right; */
+  width: 26px;
+  height: 32px;
+  cursor: pointer;
+}
+.dot-header .logout-icon:hover {
+  background: url(../images/core/svg/logout-selected.svg) no-repeat #ffffff center;
+}
+
+.dot-header .popupout-icon {
+  background: url(../images/core/svg/popout.svg) no-repeat #ffffff center;
+  display: inline-block;
+  /* float: right; */
+  width: 26px;
+  height: 32px;
+  /* margin-top: 8px;
+    margin-left: 24px;
+margin-right:8px; */
+  cursor: pointer;
+}
+.dot-header .popupout-icon:hover {
+  background: url(../images/core/svg/popout-selected.svg) no-repeat #ffffff center;
+}
+
+.dot-header .plant-icon {
+  background: url(../images/core/svg/plant.svg) no-repeat #ffffff center;
+  display: inline-block;
+  /* float: right; */
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+.dot-header .plant-icon:hover {
+  background: url(../images/core/svg/plant-selected.svg) no-repeat #ffffff center;
+}
+
+.dot-header .company-icon {
+  background: url(../images/core/svg/company.svg) no-repeat #ffffff center;
+  display: inline-block;
+  /* float: right; */
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+/*
+  .dot-header .company-icon:hover {
+    background: url(../images/core/svg/company-selected.svg) no-repeat #ffffff center;
+  
+  }*/

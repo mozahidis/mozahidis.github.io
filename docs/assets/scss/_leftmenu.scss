@@ -1,0 +1,111 @@
+.menuIcon-home {
+    background: url(../images/menuicons/pending_icon_hover.svg) no-repeat;
+}
+
+.dot-leftpane {
+    transition: width linear 0.2s;
+
+    .suitelogo {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        padding-right: 8px;
+        width: 50px;
+    }
+
+    .collapse-menu {
+        color: #90a4ae;
+        font-size: 28px;
+        cursor: pointer;
+        position: relative;
+        right: 10px;
+    }
+
+    &.menuCollapsed {
+        .suitelogo .hide-menu {
+            display: none;
+        }
+
+        .menuContainer .menuUL .menuLI > a {
+            width: 48px;
+
+            > .contentText {
+                display: none;
+            }
+        }
+    }
+
+    .menuContainer .menuUL {
+        position: relative;
+        height: calc(var(--app-height) - 68px);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+        .menuLI {
+            padding: 0 !important;
+            margin-bottom: 8px;
+            height: 40px;
+            > a {
+                display: inline-flex;
+                align-items: center;
+                width: 200px;
+                position: relative;
+                height: 40px;
+                > .menuIcon {
+                    font-size: 24px !important;
+                    text-align: center;
+                    display: inline-block;
+                    float: none;
+                    margin: 0px;
+                    width: 48px;
+                    display: inline-flex;
+                    align-items: center;
+                    justify-content: center;
+
+                    > .fa-chart-network {
+                        font-size: 18px;
+                    }
+                }
+            }
+
+            &.active,
+            &.active:hover,
+            &.active-menu {
+                background: var(--primaryColor) !important;
+            }
+
+            &:hover {
+                background: $black;
+            }
+        }
+    }
+}
+
+// .dot-leftpane.menuCollapsed
+
+// .dot-leftpane {
+//     .menuContainer {
+//         .menuLI:hover,
+//         .active {
+//             .menuIcon-home {
+//                 background: url(../images/menuicons/pending_icon_hover.svg) no-repeat;
+//             }
+//         }
+
+//         // .menuLI:hover > a > .menuIcon {
+
+//         // }
+//     }
+// }
+
+// .dot-leftpane .menuContainer .menuLI.active,
+// .dot-leftpane .menuContainer .menuLI.active-menu,
+// .dot-leftpane .menuContainer .menuLI.active:hover {
+//     background: $blue!important;
+// }
+
+// .dot-leftpane .menuContainer .menuLI:hover {
+//     background: $black;
+// }
